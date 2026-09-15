@@ -1,0 +1,18 @@
+Region,Category,Sum of Sales,Sum of Profit
+Central,Furniture,163797.26,-2871.1
+,Office Supplies,167026.33,8879.95
+,Technology,170416.29,33697.6
+Central Total,,501239.88,39706.45
+East,Furniture,208291.17,3046.2
+,Office Supplies,205516.15,41014.52
+,Technology,264974.04,47462.12
+East Total,,678781.36,91522.84
+South,Furniture,117298.68,6771.23
+,Office Supplies,125651.31,19986.52
+,Technology,148771.91,19991.96
+South Total,,391721.9,46749.71
+West,Furniture,252612.87,11504.92
+,Office Supplies,220853.2,52609.89
+,Technology,251991.86,44303.98
+West Total,,725457.93,108418.79
+Grand Total,,2297201.07,286397.79
